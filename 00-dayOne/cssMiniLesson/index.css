@@ -1,0 +1,38 @@
+h1{
+    color: blue;
+}
+
+h3{
+    color: orange;
+}
+
+.purple{
+    color: purple;
+}
+
+#red{
+    color: red;
+}
+
+.box{
+    background-color: palevioletred;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: pink;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#green{
+    background-color: green;
+    color: white;
+}
