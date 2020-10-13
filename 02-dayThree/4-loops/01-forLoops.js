@@ -48,3 +48,14 @@ for (let i = 1; i <= 50; i++){
 }
 
 console.log(sum);
+
+
+function test (myCondition) {
+    if (myCondition) {
+        return "It was true";
+    }
+    return "It was false";
+}
+
+test(true);
+test(false);
