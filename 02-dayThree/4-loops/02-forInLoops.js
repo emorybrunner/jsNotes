@@ -13,11 +13,11 @@
 //     console.log(student[item]);
 // }
 
-// let cats = [ 'tabby', 'british shorthair', 'burmese']
-// for (cat in cats){
-//     console.log(cat);
-//     console.log(cats[cat]);
-//}
+let cats = [ 'tabby', 'british shorthair', 'burmese']
+for (cat in cats){
+    console.log(cat);
+    console.log(cats[cat]);
+}
 //You don't see the keys in the array but they are still there; the key to an array is an index
 
 //*Challenge
